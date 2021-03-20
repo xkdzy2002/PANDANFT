@@ -1,2 +1,2 @@
-# CryptoPanda
-CryptoPanda加密艺术社区
+# PANDANFT
+PANDANFT加密艺术社区
